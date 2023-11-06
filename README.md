@@ -1,5 +1,7 @@
 # <p align="center"> QR Code Generator App </p>
 
+# <p align="center"> <img src="https://raw.githubusercontent.com/aadilsiddiquee/QR_Code_Generator_App/main/QRCodeGenerator_image.png" alt="QRCode Generator Logo" width="500" height="250" align="center"> </p>
+
 ## Introduction
 
 The QR Code Generator App is a simple web application that allows users to generate QR codes from text or URLs. It provides a user-friendly interface to create QR codes quickly and easily. This README provides an overview of the app's purpose, features, and instructions for usage.
