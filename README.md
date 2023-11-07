@@ -1,6 +1,4 @@
-# <p align="center"> QR Code Generator App </p>
-
-# <p align="center"> <img src="https://raw.githubusercontent.com/aadilsiddiquee/QR_Code_Generator_App/main/QRCodeGenerator_image.png" alt="QRCode Generator Logo" width="500" height="250" align="center"> </p>
+# <p align="center"> QR Code Generator App <br><br> <img src="https://raw.githubusercontent.com/aadilsiddiquee/QR_Code_Generator_App/main/QRCodeGenerator_image.png" alt="QRCode Generator Logo" width="500" height="250" align="center"> </p>
 
 ## Introduction
 
