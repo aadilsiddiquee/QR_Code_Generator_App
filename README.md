@@ -1,4 +1,4 @@
-# <p align="center"> QR Code Generator App <br><br> <img src="https://media.licdn.com/dms/image/D4D2DAQHOzoaMkbP4SA/profile-treasury-image-shrink_800_800/0/1700961978203?e=1702242000&v=beta&t=6c4fM83-7BsZW45v9tk_DgR0-E-Q9IgeNMczxFdm_Zc" alt="QRCode Generator Logo" width="500" height="250" align="center"> </p>
+# <p align="center"> QR Code Generator App <br><br> <img src="[https://media.licdn.com/dms/image/D4D2DAQHOzoaMkbP4SA/profile-treasury-image-shrink_800_800/0/1700961978203?e=1702242000&v=beta&t=6c4fM83-7BsZW45v9tk_DgR0-E-Q9IgeNMczxFdm_Zc](https://github.com/aadilsiddiquee/QR_Code_Generator_App/blob/main/QRCodeGenerator_image.png?raw=true)" alt="QRCode Generator Logo" width="500" height="250" align="center"> </p>
 
 ## Introduction
 
